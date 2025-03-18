@@ -70,7 +70,7 @@
 //	//ATENTIE - la final inchidem fisierul/stream-ul
 //}
 //
-//void dezalocareLDMasini(/*lista dubla de masini*/ int* nrMasini) {
+//void dezalocareLDMasini(/*lista dubla de masini*/) {
 //	//sunt dezalocate toate masinile si lista dublu inlantuita de elemente
 //}
 //
