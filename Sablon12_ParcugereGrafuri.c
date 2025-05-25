@@ -88,7 +88,7 @@ void dezalocareNoduriGraf(void* listaPrincipala) {
 
 //Parcurgere in adancime
 
-//crere structura Stiva
+//creare structura Stiva
 //push si pop pentru stiva
 int calculeazaNrNoduriGraf(void* listaPrincipala) {
 
@@ -107,9 +107,9 @@ void afisareGrafInAdancime(void* listaPrincipala, int idPlecare) {
 }
 
 
-//Parcurgere in [adancime]latime
+//Parcurgere in latime
 
-//crere structura coada
+//creare structura coada
 //enqueue si dequeue pentru coada
 
 void afisareGrafInLatime(void* listaPrincipala, int idPlecare) {
